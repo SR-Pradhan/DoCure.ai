@@ -61,7 +61,7 @@
 - 🎨 **Frontend Developer** – *React & TypeScript Specialist*
 - 🧠 **Manan Arora** – Backend Genius, problem solver 💻
 - 💡 **Krishan Kumar** – Feature brainstormer and innovator 🔍
-- 🎤 **Sruti Ranjan Pradhan** – Presentation & Pitch Expert 👑
+- 🎤 **Sruti Ranjan Pradhan (Me😅)** – Presentation & Pitch Expert 👑
 
 > Special thanks to **Dr. Chitra Kaul** – not just a mentor, but our biggest motivator throughout the hackathon! 🙏
 
