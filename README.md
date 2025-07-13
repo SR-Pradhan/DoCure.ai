@@ -91,7 +91,7 @@ We're scaling this project beyond the hackathon 🚀
 
 ## 📜 License
 
-This project is under MIT License. Feel free to use, adapt, and extend.
+This project is under the MIT License. Feel free to use, adapt, and extend.
 
 ---
 
