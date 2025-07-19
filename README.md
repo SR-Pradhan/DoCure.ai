@@ -1,4 +1,4 @@
-# 🚀 DoCure.ai – Your AI Health Assistant 🩺🤖
+# 🚀 DoCure.ai – Your AI Health Assistant 🩺
 
 > Built in 24 hours during the **Nexify Hackathon (Sushant University)** by Team **HackOps**, DoCure.ai is an AI-powered multi-module healthcare assistant that helps users make better health decisions with the power of AI, voice recognition, and vision capabilities.
 
