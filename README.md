@@ -9,7 +9,7 @@
 - 🏁 **130 teams participated**, 30 reached the finals.
 - 🥇 **Team HackOps secured 4th place**, missing the top 3 by just 2 points!
 - ⏱️ Built the complete project in **24 hours**, integrated 5 different modules.
-- 🧠 Gained mentorship, gifts, and opportunities more valuable than any prize.
+- 🧠 Gained mentorship, gifts, and opportunities more valuable than any prize
 
 ---
 
